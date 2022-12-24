@@ -2,7 +2,7 @@
 
 ### Demo展示
 ---
-[https://zjw1111.github.io/BirthdayPage/](https://zjw1111.github.io/BirthdayPage/)
+[https://zhm-super.github.io/BirthdayPage/](https://zhm-super.github.io/BirthdayPage/)
 
 ## 相关fork说明
 ---
